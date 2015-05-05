@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 645a95bcef0347644b9d71b9b2102e48
+timeCreated: 1430073036
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: infected_1
+    21300002: infected_10
+    21300004: infected_11
+    21300006: infected_12
+    21300008: infected_13
+    21300010: infected_14
+    21300012: infected_15
+    21300014: infected_16
+    21300016: infected_17
+    21300018: infected_18
+    21300020: infected_19
+    21300022: infected_2
+    21300024: infected_20
+    21300026: infected_21
+    21300028: infected_22
+    21300030: infected_23
+    21300032: infected_24
+    21300034: infected_3
+    21300036: infected_4
+    21300038: infected_5
+    21300040: infected_6
+    21300042: infected_7
+    21300044: infected_8
+    21300046: infected_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: infected_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 174
+        width: 132
+        height: 150
+      alignment: 9
+      pivot: {x: .545454562, y: .519999981}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 144
+        height: 156
+      alignment: 9
+      pivot: {x: -.583333313, y: -.653846145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 648
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: -1.12, y: .266666681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 488
+        width: 174
+        height: 108
+      alignment: 9
+      pivot: {x: -.586206913, y: 1.27777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_13
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 82
+        width: 174
+        height: 126
+      alignment: 9
+      pivot: {x: -.172413796, y: 1.80952382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 78
+        width: 192
+        height: 90
+      alignment: 9
+      pivot: {x: .625, y: 2.73333335}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 174
+        height: 144
+      alignment: 9
+      pivot: {x: 1.65517247, y: 1.625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_16
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 488
+        width: 132
+        height: 102
+      alignment: 9
+      pivot: {x: 2.13636374, y: .882352948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 180
+        width: 120
+        height: 144
+      alignment: 9
+      pivot: {x: 2.5, y: -.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 344
+        width: 156
+        height: 138
+      alignment: 9
+      pivot: {x: 2.34615374, y: -.782608688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_19
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 842
+        width: 120
+        height: 180
+      alignment: 9
+      pivot: {x: 3.25, y: .333333343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 920
+        width: 132
+        height: 102
+      alignment: 9
+      pivot: {x: .681818187, y: -.70588237}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 830
+        width: 144
+        height: 192
+      alignment: 9
+      pivot: {x: 2.70833325, y: 1.15625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_21
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 210
+        width: 150
+        height: 132
+      alignment: 9
+      pivot: {x: -1.48000002, y: -.636363626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_22
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 896
+        width: 114
+        height: 126
+      alignment: 9
+      pivot: {x: -2.63157892, y: .380952388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_23
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 268
+        width: 144
+        height: 108
+      alignment: 9
+      pivot: {x: -1.75, y: 1.11111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_24
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 378
+        width: 156
+        height: 108
+      alignment: 9
+      pivot: {x: -1.19230771, y: 2.11111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 592
+        width: 126
+        height: 120
+      alignment: 9
+      pivot: {x: -.285714298, y: -.349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 786
+        width: 114
+        height: 108
+      alignment: 9
+      pivot: {x: -.578947365, y: .611111104}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 598
+        width: 120
+        height: 114
+      alignment: 9
+      pivot: {x: 0, y: 1.42105258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 484
+        width: 150
+        height: 162
+      alignment: 9
+      pivot: {x: 1.03999996, y: .962962985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 714
+        width: 132
+        height: 126
+      alignment: 9
+      pivot: {x: 1.5, y: -.0476190485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 46
+        width: 174
+        height: 132
+      alignment: 9
+      pivot: {x: 1.31034482, y: -1.0454545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: infected_9
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 170
+        width: 156
+        height: 96
+      alignment: 9
+      pivot: {x: .384615391, y: -1.6875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

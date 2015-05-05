@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: a98fb51a9d7acfb45996d3ea396cf3bf
+timeCreated: 1430519959
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nuke_1
+    21300002: nuke_10
+    21300004: nuke_11
+    21300006: nuke_12
+    21300008: nuke_13
+    21300010: nuke_14
+    21300012: nuke_15
+    21300014: nuke_16
+    21300016: nuke_17
+    21300018: nuke_18
+    21300020: nuke_19
+    21300022: nuke_2
+    21300024: nuke_20
+    21300026: nuke_21
+    21300028: nuke_22
+    21300030: nuke_23
+    21300032: nuke_24
+    21300034: nuke_3
+    21300036: nuke_4
+    21300038: nuke_5
+    21300040: nuke_6
+    21300042: nuke_7
+    21300044: nuke_8
+    21300046: nuke_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nuke_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 144
+        height: 162
+      alignment: 9
+      pivot: {x: .541666687, y: .518518507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 860
+        width: 156
+        height: 162
+      alignment: 9
+      pivot: {x: -.5, y: -.629629612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 418
+        width: 162
+        height: 192
+      alignment: 9
+      pivot: {x: -1, y: .28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_12
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 798
+        width: 186
+        height: 120
+      alignment: 9
+      pivot: {x: -.516129017, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_13
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 884
+        width: 186
+        height: 138
+      alignment: 9
+      pivot: {x: -.129032254, y: 1.69565213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_14
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 920
+        width: 204
+        height: 102
+      alignment: 9
+      pivot: {x: .617647052, y: 2.47058821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 186
+        height: 156
+      alignment: 9
+      pivot: {x: 1.5806452, y: 1.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 4
+        width: 144
+        height: 114
+      alignment: 9
+      pivot: {x: 2, y: .842105269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 260
+        width: 132
+        height: 156
+      alignment: 9
+      pivot: {x: 2.31818175, y: -.0769230798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 484
+        width: 174
+        height: 150
+      alignment: 9
+      pivot: {x: 2.17241383, y: -.680000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 612
+        width: 132
+        height: 198
+      alignment: 9
+      pivot: {x: 3, y: .363636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 646
+        width: 138
+        height: 114
+      alignment: 9
+      pivot: {x: .652173936, y: -.578947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 812
+        width: 156
+        height: 210
+      alignment: 9
+      pivot: {x: 2.53846145, y: 1.11428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_21
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 878
+        width: 162
+        height: 144
+      alignment: 9
+      pivot: {x: -1.33333337, y: -.541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 344
+        width: 126
+        height: 138
+      alignment: 9
+      pivot: {x: -2.33333325, y: .391304344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_23
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 676
+        width: 156
+        height: 120
+      alignment: 9
+      pivot: {x: -1.57692313, y: 1.04999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_24
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 762
+        width: 168
+        height: 120
+      alignment: 9
+      pivot: {x: -1.07142854, y: 1.95000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_3
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 580
+        width: 138
+        height: 132
+      alignment: 9
+      pivot: {x: -.217391297, y: -.272727281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 664
+        width: 126
+        height: 120
+      alignment: 9
+      pivot: {x: -.476190478, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_5
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 896
+        width: 138
+        height: 126
+      alignment: 9
+      pivot: {x: .0434782617, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 636
+        width: 162
+        height: 174
+      alignment: 9
+      pivot: {x: 1, y: .931034505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 120
+        width: 144
+        height: 138
+      alignment: 9
+      pivot: {x: 1.41666663, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 714
+        width: 186
+        height: 144
+      alignment: 9
+      pivot: {x: 1.25806451, y: -.916666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nuke_9
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 786
+        width: 162
+        height: 108
+      alignment: 9
+      pivot: {x: .407407403, y: -1.44444442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

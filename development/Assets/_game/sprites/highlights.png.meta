@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: 7e89fb6082e944b4ca75903f4d42b836
+timeCreated: 1430072992
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: highlight_1
+    21300002: highlight_10
+    21300004: highlight_11
+    21300006: highlight_12
+    21300008: highlight_13
+    21300010: highlight_14
+    21300012: highlight_15
+    21300014: highlight_16
+    21300016: highlight_17
+    21300018: highlight_18
+    21300020: highlight_19
+    21300022: highlight_2
+    21300024: highlight_20
+    21300026: highlight_21
+    21300028: highlight_22
+    21300030: highlight_23
+    21300032: highlight_24
+    21300034: highlight_3
+    21300036: highlight_4
+    21300038: highlight_5
+    21300040: highlight_6
+    21300042: highlight_7
+    21300044: highlight_8
+    21300046: highlight_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: highlight_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 114
+        width: 144
+        height: 162
+      alignment: 9
+      pivot: {x: .541666687, y: .518518507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 278
+        width: 156
+        height: 168
+      alignment: 9
+      pivot: {x: -.5, y: -.571428597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 624
+        width: 162
+        height: 192
+      alignment: 9
+      pivot: {x: -1, y: .28125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 38
+        width: 186
+        height: 120
+      alignment: 9
+      pivot: {x: -.516129017, y: 1.20000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 392
+        width: 186
+        height: 138
+      alignment: 9
+      pivot: {x: -.129032254, y: 1.69565213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 288
+        width: 204
+        height: 102
+      alignment: 9
+      pivot: {x: .617647052, y: 2.47058821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_15
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 120
+        width: 186
+        height: 156
+      alignment: 9
+      pivot: {x: 1.5806452, y: 1.53846157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 4
+        width: 144
+        height: 114
+      alignment: 9
+      pivot: {x: 2, y: .842105269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 290
+        width: 132
+        height: 156
+      alignment: 9
+      pivot: {x: 2.31818175, y: -.0769230798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 678
+        width: 168
+        height: 150
+      alignment: 9
+      pivot: {x: 2.21428561, y: -.680000007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 830
+        width: 132
+        height: 192
+      alignment: 9
+      pivot: {x: 3, y: .34375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_2
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 4
+        width: 144
+        height: 114
+      alignment: 9
+      pivot: {x: .666666687, y: -.578947365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 818
+        width: 156
+        height: 204
+      alignment: 9
+      pivot: {x: 2.53846145, y: 1.11764705}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 532
+        width: 162
+        height: 144
+      alignment: 9
+      pivot: {x: -1.33333337, y: -.541666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_22
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 148
+        width: 126
+        height: 138
+      alignment: 9
+      pivot: {x: -2.33333325, y: .391304344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_23
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 902
+        width: 162
+        height: 120
+      alignment: 9
+      pivot: {x: -1.48148143, y: 1.04999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 902
+        width: 168
+        height: 120
+      alignment: 9
+      pivot: {x: -1.07142854, y: 1.95000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 744
+        width: 138
+        height: 132
+      alignment: 9
+      pivot: {x: -.217391297, y: -.272727281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_4
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 902
+        width: 126
+        height: 120
+      alignment: 9
+      pivot: {x: -.476190478, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 160
+        width: 132
+        height: 126
+      alignment: 9
+      pivot: {x: .0454545468, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 162
+        height: 174
+      alignment: 9
+      pivot: {x: 1, y: .931034505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 538
+        width: 144
+        height: 138
+      alignment: 9
+      pivot: {x: 1.41666663, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 878
+        width: 186
+        height: 144
+      alignment: 9
+      pivot: {x: 1.25806451, y: -.916666687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: highlight_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 168
+        height: 108
+      alignment: 9
+      pivot: {x: .392857134, y: -1.44444442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

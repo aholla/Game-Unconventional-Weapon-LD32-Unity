@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 6278cebc69badad4c8e6d696d995eaf9
+timeCreated: 1430346374
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: blue_boxCheckmark
+    21300002: blue_boxCross
+    21300004: blue_boxTick
+    21300006: blue_button00
+    21300008: blue_button01
+    21300010: blue_button02
+    21300012: blue_button03
+    21300014: blue_button04
+    21300016: blue_button05
+    21300018: blue_button06
+    21300020: blue_button07
+    21300022: blue_button08
+    21300024: blue_button09
+    21300026: blue_button10
+    21300028: blue_button11
+    21300030: blue_button12
+    21300032: blue_button13
+    21300034: blue_checkmark
+    21300036: blue_circle
+    21300038: blue_cross
+    21300040: blue_panel
+    21300042: blue_sliderDown
+    21300044: blue_sliderLeft
+    21300046: blue_sliderRight
+    21300048: blue_sliderUp
+    21300050: blue_tick
+    21300052: dropdownBottom
+    21300054: dropdownMid
+    21300056: dropdownTop
+    21300058: green_boxCheckmark
+    21300060: green_boxCross
+    21300062: green_boxTick
+    21300064: green_button00
+    21300066: green_button01
+    21300068: green_button02
+    21300070: green_button03
+    21300072: green_button04
+    21300074: green_button05
+    21300076: green_button06
+    21300078: green_button07
+    21300080: green_button08
+    21300082: green_button09
+    21300084: green_button10
+    21300086: green_button11
+    21300088: green_button12
+    21300090: green_button13
+    21300092: green_checkmark
+    21300094: green_circle
+    21300096: green_cross
+    21300098: green_panel
+    21300100: green_sliderDown
+    21300102: green_sliderLeft
+    21300104: green_sliderRight
+    21300106: green_sliderUp
+    21300108: green_tick
+    21300110: grey_arrowDownGrey
+    21300112: grey_arrowDownWhite
+    21300114: grey_arrowUpGrey
+    21300116: grey_arrowUpWhite
+    21300118: grey_box
+    21300120: grey_boxCheckmark
+    21300122: grey_boxCross
+    21300124: grey_boxTick
+    21300126: grey_button00
+    21300128: grey_button01
+    21300130: grey_button02
+    21300132: grey_button03
+    21300134: grey_button04
+    21300136: grey_button05
+    21300138: grey_button06
+    21300140: grey_button07
+    21300142: grey_button08
+    21300144: grey_button09
+    21300146: grey_button10
+    21300148: grey_button11
+    21300150: grey_button12
+    21300152: grey_button13
+    21300154: grey_button14
+    21300156: grey_button15
+    21300158: grey_checkmarkGrey
+    21300160: grey_checkmarkWhite
+    21300162: grey_circle
+    21300164: grey_crossGrey
+    21300166: grey_crossWhite
+    21300168: grey_panel
+    21300170: grey_sliderDown
+    21300172: grey_sliderEnd
+    21300174: grey_sliderHorizontal
+    21300176: grey_sliderLeft
+    21300178: grey_sliderRight
+    21300180: grey_sliderUp
+    21300182: grey_sliderVertical
+    21300184: grey_tickGrey
+    21300186: grey_tickWhite
+    21300188: red_boxCheckmark
+    21300190: red_boxCross
+    21300192: red_boxTick
+    21300194: red_button00
+    21300196: red_button01
+    21300198: red_button02
+    21300200: red_button03
+    21300202: red_button04
+    21300204: red_button05
+    21300206: red_button06
+    21300208: red_button07
+    21300210: red_button08
+    21300212: red_button09
+    21300214: red_button10
+    21300216: red_button11
+    21300218: red_button12
+    21300220: red_button13
+    21300222: red_checkmark
+    21300224: red_circle
+    21300226: red_cross
+    21300228: red_panel
+    21300230: red_sliderDown
+    21300232: red_sliderLeft
+    21300234: red_sliderRight
+    21300236: red_sliderUp
+    21300238: red_tick
+    21300240: yellow_boxCheckmark
+    21300242: yellow_boxCross
+    21300244: yellow_boxTick
+    21300246: yellow_button00
+    21300248: yellow_button01
+    21300250: yellow_button02
+    21300252: yellow_button03
+    21300254: yellow_button04
+    21300256: yellow_button05
+    21300258: yellow_button06
+    21300260: yellow_button07
+    21300262: yellow_button08
+    21300264: yellow_button09
+    21300266: yellow_button10
+    21300268: yellow_button11
+    21300270: yellow_button12
+    21300272: yellow_button13
+    21300274: yellow_checkmark
+    21300276: yellow_circle
+    21300278: yellow_cross
+    21300280: yellow_panel
+    21300282: yellow_sliderDown
+    21300284: yellow_sliderLeft
+    21300286: yellow_sliderRight
+    21300288: yellow_sliderUp
+    21300290: yellow_tick
+    21300292: info_panel
+    21300294: info_panel_button
+    21300296: info_panel_checkbox
+    21300298: info_panel_checkbox_ticked
+    21300300: info_panel_divider
+    21300302: slider_bar
+    21300304: slider_handle
+    21300306: arrow
+    21300308: dollar
+    21300310: hud_bar
+    21300312: minus
+    21300314: plus
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arrow
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dollar
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 96
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hud_bar
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 960
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: info_panel
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 20, y: 25, z: 25, w: 20}
+    - name: info_panel_button
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 258
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 10, y: 4, z: 10, w: 4}
+    - name: info_panel_checkbox
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: info_panel_checkbox_ticked
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 96
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: info_panel_divider
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 425
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: minus
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 6
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: plus
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 108
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slider_bar
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6
+        width: 200
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: slider_handle
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
