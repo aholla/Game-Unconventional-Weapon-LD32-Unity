@@ -6,6 +6,8 @@ It is a sim style game, a virus has been released and you have to do what you ca
 
 For more info visit: http://www.aholla.co.uk/2015/05/unconventional-weapon-unity-ld32/
 
+Play here: http://aholla.github.io/Unconventional-Weapon-LD32-Unity/
+
 
 ![Alt text](http://www.aholla.co.uk/wp-content/uploads/unconventional_weapon_05.jpg "Screenshot")
 
